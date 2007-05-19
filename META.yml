@@ -1,0 +1,20 @@
+---
+abstract: 'Perl wrapper for Japanese assoc word search engine.'
+author: 'Toru Yamaguchi <zigorou@cpan.org>'
+distribution_type: module
+generated_by: 'Module::Install version 0.67'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: WebService-Reflexa
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Carp: 1.03
+  Class::Accessor::Fast: 0.3
+  WWW::REST: 0.01
+  XML::LibXML: 1.62
+version: 0.01
