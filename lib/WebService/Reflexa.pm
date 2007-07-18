@@ -21,11 +21,11 @@ WebService::Reflexa - Perl wrapper for Japanese assoc word search engine. (http:
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
@@ -179,6 +179,9 @@ Reflexa search engine top.
 About reflexa API
 
 =item L<WWW::REST>
+
+L<WWW::REST> is great module.
+But I want to fix 'Subroutine WWW::REST::new redefined' warnings.
 
 =item L<XML::LibXML>
 

@@ -1,5 +1,8 @@
 Revision history for WebService-Reflexa
 
+0.03    2007/07/19 01:19
+        - Add SKIP block in test.
+
 0.02    2007/05/21 15:40
         - Change search method interface.
         - Add JSON Support. (using JSON::Any)
